@@ -1,0 +1,2 @@
+# AIcosmoBot
+Ai
